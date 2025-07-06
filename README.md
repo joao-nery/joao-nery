@@ -57,9 +57,3 @@ Minha stack é focada no ecossistema JavaScript/TypeScript, buscando sempre a me
 </p>
 
 ---
-
-### 📊 Minhas Estatísticas no GitHub
-
-![Snake animation](https://github.com/joao-nery/joao-nery/blob/output/github-contribution-grid-snake.svg)
-
----
