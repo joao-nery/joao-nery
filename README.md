@@ -1,7 +1,7 @@
 # Olá, eu sou João Nery! 👋
 
 <p align="left">
-  <a href="#">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-nery&layout=compact&langs_count=8&theme=dracula">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-nery&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
