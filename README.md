@@ -2,9 +2,6 @@
 
 <p align="left">
   <a href="https://github.com/seus-links">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-nery&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/seus-links">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-nery&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
